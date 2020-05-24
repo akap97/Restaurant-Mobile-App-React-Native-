@@ -1,8 +1,7 @@
 # Resturant-Mobile-App-React-Native-
 A Hybrid Mobile App Made using React Native and Expo SDK
 
-#App Link
-https://drive.google.com/file/d/1cT7-eN6CT0Y8UsWGGD0vxjS_U4Aszd7W/view?usp=sharing 
+# App Link : https://drive.google.com/open?id=19YF-GKJF3HHrVsew2atLff5rD0eoiIu4
 
 
 
